@@ -24,15 +24,7 @@ int main() {
 		printf("%d", a*b);
 	}
 	else {
-		printf("sayi 0 a bolunemez , yada yanlýs oparator girdiniz ?");
+		printf("sayi 0 a bolunemez , yada yanlis oparator girdiniz ?");
 	}
-
-
-	
-
-	
-
-
-
 	return 0;
 }
